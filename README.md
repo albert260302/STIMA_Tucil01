@@ -24,4 +24,6 @@ Program ini dibuat menggunakan bahasa pemrograman C++ dan tidak membutuhkan libr
 - Tanggal Lahir: 26 Maret 2006
 - Hobi: Belajar, Beribadah, dan tidak berbohong
 - Cita-Cita: Pergi Haji
+- Alasan Program tidak dibuat GUI nya: Kena demam 3 hari baru sembuh h-1 malem sblm deadline dan itu baru selesai buat algoritmanya. Huhuhu
+- Sekian, Terima kasih telah membaca dan semangat memeriksa :)
 
